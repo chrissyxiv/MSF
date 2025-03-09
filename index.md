@@ -4,13 +4,13 @@ title: Map, Food, Smiles
 ---
 
 ## Map
-AMB
+I was born in Younghe in 1999. 
 ![map](asset/map.jpg)
 
 ## Food
-ASD
+I love wining, dessert, coffee, hot pot, and japanese food.
 ![food](asset/food.jpg)
 
 ## Smiles
-AAA
+I love tranditional performance, sea, and comic book!
 ![smile](asset/smile.jpg)
