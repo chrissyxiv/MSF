@@ -3,6 +3,8 @@ layout: home
 title: Map, Food, Smiles
 ---
 
+Here's what Chrissy loves!
+
 ## Map
 I was born in Younghe in 1999. 
 ![map](asset/map.jpg)
