@@ -5,9 +5,12 @@ title: Map, Food, Smiles
 
 ## Map
 AMB
+![map](asset/map.jpg)
 
 ## Food
 ASD
+![food](asset/food.jpg)
 
-##Smiles
+## Smiles
 AAA
+![smile](asset/smile.jpg)
